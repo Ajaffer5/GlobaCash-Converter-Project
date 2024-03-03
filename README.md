@@ -4,7 +4,7 @@
 
 ### Team Members:
 - Ali Jaffer
-- Nadish Shah
+- Nidhish Shah
 
 ---
 
