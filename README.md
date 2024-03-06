@@ -45,6 +45,7 @@ The development of GlobaCash Converter is planned over a span of approximately o
 - Week 2: Designing the user interface and experience.
 - Week 3: Implementing the core functionalities and backend integration.
 - Week 4: Testing, debugging, and refining user feedback.
+- Estimate Effort per group member: 50% each person, one will make the interface, someone will make mechanics, and someone will make graphics.
 
 ## UML DIAGRAM
 ![image](https://github.com/Ajaffer5/GlobaCash-Converter-Project/assets/149440888/df6438e1-7a31-4fcc-bd70-42d6a459f720)
