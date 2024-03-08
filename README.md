@@ -5,6 +5,7 @@
 ### Team Members:
 - Ali Jaffer
 - Nidhish Shah
+- Zachary Vamossy
 
 ---
 
